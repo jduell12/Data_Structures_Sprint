@@ -1,0 +1,24 @@
+{
+  "name": "data_structures_sprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jduell12/Data_Structures_Sprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jduell12/Data_Structures_Sprint/issues"
+  },
+  "homepage": "https://github.com/jduell12/Data_Structures_Sprint#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
